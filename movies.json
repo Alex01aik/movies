@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Titanic",
+    "year": "1997",
+    "format": "VHS",
+    "actors": [
+      "Kate Winsler",
+      "Leonardo di Caprio",
+      "Billy Zaine"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Friends",
+    "year": "1994",
+    "format": "DVD",
+    "actors": [
+      "jennifer Aniston",
+      "Courteney Cox",
+      "Liza Kudrow"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "My movie",
+    "year": "2020",
+    "format": "2020",
+    "actors": [
+      "Alexandr Petrov",
+      "Noname Nonamovich"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "My second movie",
+    "year": "2021",
+    "format": "2021",
+    "actors": [
+      "Alexandr Petrov",
+      "Others"
+    ]
+  }
+]
